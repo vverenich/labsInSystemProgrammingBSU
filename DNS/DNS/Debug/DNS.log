@@ -1,8 +1,8 @@
 ﻿  dns.c
-E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(26,47): warning C4013: 'calloc' undefined; assuming extern returning int
-E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(53,39): warning C4013: 'strlen' undefined; assuming extern returning int
-E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(57,55): warning C4013: 'malloc' undefined; assuming extern returning int
-E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(58,9): warning C4013: 'strcpy' undefined; assuming extern returning int
-E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(91,6): warning C4013: 'free' undefined; assuming extern returning int
-E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(99,29): warning C4013: 'strcmp' undefined; assuming extern returning int
+E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(29,47): warning C4013: 'calloc' undefined; assuming extern returning int
+E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(58,36): warning C4013: 'strlen' undefined; assuming extern returning int
+E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(64,56): warning C4013: 'malloc' undefined; assuming extern returning int
+E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(65,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(98,6): warning C4013: 'free' undefined; assuming extern returning int
+E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\DNS\dns.c(107,29): warning C4013: 'strcmp' undefined; assuming extern returning int
   DNS.vcxproj -> E:\Vlad\ПРОГИ НА ПЛЮСАХ\labsSP\labsInSystemProgrammingBSU\DNS\Debug\DNS.exe
