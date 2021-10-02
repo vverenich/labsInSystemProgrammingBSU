@@ -1,0 +1,12 @@
+﻿  dns.c
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(29,46): warning C4013: 'calloc' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(65,54): warning C4013: 'malloc' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(99,6): warning C4013: 'free' undefined; assuming extern returning int
+  main.c
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\main.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\main.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DNS_lab.vcxproj -> D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\Release\DNS_lab.exe

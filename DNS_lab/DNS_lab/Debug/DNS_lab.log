@@ -1,0 +1,8 @@
+﻿  dns.c
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(29,46): warning C4013: 'calloc' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(59,36): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(65,54): warning C4013: 'malloc' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(66,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(99,6): warning C4013: 'free' undefined; assuming extern returning int
+D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\DNS_lab\dns.c(108,29): warning C4013: 'strcmp' undefined; assuming extern returning int
+  DNS_lab.vcxproj -> D:\verchik programs\labs_SP\labsInSystemProgrammingBSU\labsInSystemProgrammingBSU\DNS_lab\Debug\DNS_lab.exe
